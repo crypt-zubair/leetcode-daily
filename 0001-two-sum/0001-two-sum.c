@@ -12,6 +12,6 @@ for(int i=0;i<numsSize;i++){
         return  a;}
         }
     }
-    
+    *returnSize=0;
     return 0;
 }
