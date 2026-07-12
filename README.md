@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/crypt-zubair/leetcode-daily/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/crypt-zubair/leetcode-daily/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/crypt-zubair/leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/crypt-zubair/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/crypt-zubair/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/crypt-zubair/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/crypt-zubair/leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
