@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/crypt-zubair/leetcode-daily/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/crypt-zubair/leetcode-daily/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/crypt-zubair/leetcode-daily/tree/master/0069-sqrtx) |
 | [2469-convert-the-temperature](https://github.com/crypt-zubair/leetcode-daily/tree/master/2469-convert-the-temperature) |
 ## Array
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/crypt-zubair/leetcode-daily/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/crypt-zubair/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/crypt-zubair/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
