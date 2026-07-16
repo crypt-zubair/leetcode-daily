@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/crypt-zubair/leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/crypt-zubair/leetcode-daily/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/crypt-zubair/leetcode-daily/tree/master/0344-reverse-string) |
+| [0459-repeated-substring-pattern](https://github.com/crypt-zubair/leetcode-daily/tree/master/0459-repeated-substring-pattern) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/crypt-zubair/leetcode-daily/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/crypt-zubair/leetcode-daily/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
