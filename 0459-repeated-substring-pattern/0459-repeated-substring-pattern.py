@@ -1,9 +1,7 @@
-class Solution:
+class Solution(object):
     def repeatedSubstringPattern(self, s):
-        n = len(s)
-        for i in range(1, n // 2 + 1):
-            if n % i == 0:
-                sub = s[:i]
-                if sub * (n // i) == s:
-                    return True
-        return False
+        """
+        :type s: str
+        :rtype: bool
+        """
+        return (s + s)[1:-1].find(s) != -1
