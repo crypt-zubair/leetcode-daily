@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/crypt-zubair/leetcode-daily/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/crypt-zubair/leetcode-daily/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/crypt-zubair/leetcode-daily/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/crypt-zubair/leetcode-daily/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/crypt-zubair/leetcode-daily/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/crypt-zubair/leetcode-daily/tree/master/0070-climbing-stairs) |
 | [2469-convert-the-temperature](https://github.com/crypt-zubair/leetcode-daily/tree/master/2469-convert-the-temperature) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/crypt-zubair/leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/crypt-zubair/leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/crypt-zubair/leetcode-daily/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/crypt-zubair/leetcode-daily/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/crypt-zubair/leetcode-daily/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/crypt-zubair/leetcode-daily/tree/master/0344-reverse-string) |
 | [0459-repeated-substring-pattern](https://github.com/crypt-zubair/leetcode-daily/tree/master/0459-repeated-substring-pattern) |
@@ -107,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/crypt-zubair/leetcode-daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/crypt-zubair/leetcode-daily/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/crypt-zubair/leetcode-daily/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
