@@ -159,4 +159,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/crypt-zubair/leetcode-daily/tree/master/0620-not-boring-movies) |
 | [1179-reformat-department-table](https://github.com/crypt-zubair/leetcode-daily/tree/master/1179-reformat-department-table) |
 | [1251-average-selling-price](https://github.com/crypt-zubair/leetcode-daily/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/crypt-zubair/leetcode-daily/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
