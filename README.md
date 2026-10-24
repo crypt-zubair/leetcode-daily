@@ -157,4 +157,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/crypt-zubair/leetcode-daily/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/crypt-zubair/leetcode-daily/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/crypt-zubair/leetcode-daily/tree/master/0620-not-boring-movies) |
+| [1179-reformat-department-table](https://github.com/crypt-zubair/leetcode-daily/tree/master/1179-reformat-department-table) |
 <!---LeetCode Topics End-->
